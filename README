@@ -1,0 +1,6 @@
+To jest prosty program do tworzenia kanały na platformie "You Tube". Podajesz nazwę kanału oraz właściciela. Możesz dodawać i usuwać swoje filmy, oraz subskrypcje. Masz także możliwość tworzenia definiowania własnych filmów.
+
+Program przechwytuje błędy, które może wywołać użytkownik.
+
+
+Plik z testami sprawdza poprawność działania najważniejszych funkcji programu.
